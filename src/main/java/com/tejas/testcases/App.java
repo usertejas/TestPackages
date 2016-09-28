@@ -1,4 +1,4 @@
-package com.priceline.log.TestPackages;
+package com.tejas.testcases;
 
 /**
  * Hello world!
